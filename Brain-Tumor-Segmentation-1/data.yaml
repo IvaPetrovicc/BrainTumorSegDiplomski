@@ -1,0 +1,13 @@
+names:
+- meningioma
+- notumor
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: brain-tumor-segmentation-jteuo-vwha2
+  url: https://universe.roboflow.com/fpmoz/brain-tumor-segmentation-jteuo-vwha2/dataset/1
+  version: 1
+  workspace: fpmoz
+test: test/images
+train: train/images
+val: valid/images
